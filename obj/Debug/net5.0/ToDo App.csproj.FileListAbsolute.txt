@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ToDo App.exe
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ToDo App.deps.json
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ToDo App.runtimeconfig.json
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ToDo App.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ToDo App.dll
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ref\ToDo App.dll
+C:\Users\Orhun\Documents\ToDo App\bin\Debug\net5.0\ToDo App.pdb
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.AssemblyInfo.cs
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.dll
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ref\ToDo App.dll
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.pdb
+C:\Users\Orhun\Documents\ToDo App\obj\Debug\net5.0\ToDo App.genruntimeconfig.cache
